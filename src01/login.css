@@ -1,0 +1,54 @@
+body{
+    background-image: url("back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.header-text{
+    color: white;
+    display: inline-flex;
+    /* padding-right: 600px; */
+    /* text-align: center; */
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 25px;
+    margin-inline: 25px;
+    /* justify-content: center; */
+
+}
+
+.Z{
+    color: rgb(13, 145, 193);
+}
+.title{
+    color:rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    /* text-align: center; */
+    display: inline-flex;
+
+}
+
+.caption{
+    padding-top: 40px;
+    padding-left: 15px;
+}
+
+.login-box{
+    text-align: center;
+    padding-top: 50px;
+    line-height: 20px;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    box-sizing: border-box;
+    box-shadow: 5px;
+    height: 75px;
+    box-decoration-break: slice;
+}
+
+
+
+

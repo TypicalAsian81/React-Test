@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.head{
+    background-color: rgb(13, 145, 193);
+    display: inline-flex;
+    color: white;
+}
+
+.middle{
+    color: rgb(255, 255, 255);
+}
